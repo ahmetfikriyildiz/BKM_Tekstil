@@ -23,7 +23,6 @@ Bu projede aşağıdaki teknolojiler ve kütüphaneler kullanılmıştır:
 *   **[React Router DOM](https://reactrouter.com/):** Sayfa yönlendirmeleri ve navigasyon.
 *   **[Lucide React](https://lucide.dev/):** Modern ve hafif ikon seti.
 *   **[EmailJS](https://www.emailjs.com/):** Sunucu gerektirmeden mail gönderme servisi.
-*   **[Supabase](https://supabase.com/):** (Opsiyonel) Veri tabanı ve backend servisleri.
 
 ## ⚙️ Kurulum ve Çalıştırma
 
